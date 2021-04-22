@@ -1227,7 +1227,7 @@ ul.social-network li {
   
 
 .social-network a.icoFacebook:hover i,
-.social-network a.icoLinkedin:hover i
+.social-network a.icoLinkedin:hover i,
 .social-network a.icoInstagram:hover i {
   color: #fff;
 }
