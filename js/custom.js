@@ -148,3 +148,11 @@ $(document).ready(function() {
     
 
 })(jQuery);
+
+(function($) {
+
+	"use strict";
+
+	$('[data-toggle="tooltip"]').tooltip()
+
+})(jQuery);
